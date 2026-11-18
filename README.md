@@ -30,7 +30,7 @@ Designed to be simple, private and accessible, Lokfor provides everyday tools wi
 | **Lokfor Calendar** | `app.lokfor.calendar` | Private local calendar for managing events, appointments and everyday schedules. | 📋 Planned |
 | **Lokfor Expenses** | `app.lokfor.expenses` | Lightweight expense tracker for managing personal finances, budgets and spending history. | 📋 Planned |
 | **Lokfor File Manager** | `app.lokfor.files` | Simple local file manager to browse, organize and manage files directly on your device. | 📋 Planned |
-| **Lokfor Beam** | `app.lokfor.beam` | Offline file and media sharing using a fast, device-to-device transfer system without internet access. | 🔬 Research & Development |
+| **Lokfor Beam** | `app.lokfor.beam` | Offline optical file and media sharing using light-based communication for fast device-to-device transfers without internet access. | 🔬 Research & Development |
 
 ---
 
